@@ -1,0 +1,17 @@
+{
+    "name": "nexmo-community/verify-aws-cognito-php",
+    "description": "Example in PHP for using Vonage Verify for 2FA with Amazon Cognito",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adamculp",
+            "email": "adam.culp@vonage.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.143.2",
+        "nexmo/client": "^2.0.0",
+        "vlucas/phpdotenv": "v5.0.0"
+    }
+}
